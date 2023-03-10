@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-90,
+				-10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Amy Phase 1 idle"
+		},
+		{
+			"offsets": [
+				-90,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Amy Phase 1 right"
+		},
+		{
+			"offsets": [
+				-117,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Amy Phase 1 left"
+		},
+		{
+			"offsets": [
+				-93,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Amy Phase 1 down"
+		},
+		{
+			"offsets": [
+				-91,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Amy Phase 1 up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Amy_Phase_1",
+	"position": [
+		-230,
+		-290
+	],
+	"healthicon": "icon-amy1",
+	"flip_x": false,
+	"healthbar_colors": [
+		65,
+		3,
+		44
+	],
+	"camera_position": [
+		0,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Insomnia Amy.png">
+<SubTexture name="Insomnia Amy idle0000" x="419" y="932" width="418" height="910" frameX="-128" frameY="-186" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Insomnia Amy idle0001" x="837" y="932" width="418" height="910" frameX="-128" frameY="-186" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Insomnia Amy idle0002" x="837" y="932" width="418" height="910" frameX="-128" frameY="-186" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Insomnia Amy idle0003" x="837" y="932" width="418" height="910" frameX="-128" frameY="-186" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Insomnia Amy idle0004" x="1255" y="932" width="418" height="910" frameX="-128" frameY="-186" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Insomnia Amy idle0005" x="1255" y="932" width="418" height="910" frameX="-128" frameY="-186" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Insomnia Amy idle0006" x="1255" y="932" width="418" height="910" frameX="-128" frameY="-186" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Insomnia Amy idle0007" x="0" y="932" width="419" height="912" frameX="-127" frameY="-186" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Insomnia Amy idle0008" x="0" y="932" width="419" height="912" frameX="-127" frameY="-186" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Insomnia Amy idle0009" x="0" y="932" width="419" height="912" frameX="-127" frameY="-186" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Insomnia Amy idle0010" x="419" y="932" width="418" height="910" frameX="-128" frameY="-186" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Insomnia Amy left0000" x="0" y="1844" width="429" height="825" frameX="-91" frameY="-271" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Insomnia Amy left0001" x="1542" y="1844" width="434" height="822" frameX="-83" frameY="-274" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Insomnia Amy left0002" x="1976" y="1844" width="444" height="822" frameX="-74" frameY="-274" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Insomnia Amy left0003" x="2813" y="822" width="450" height="821" frameX="-67" frameY="-275" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Insomnia Amy right0000" x="429" y="1844" width="543" height="825" frameX="-86" frameY="-271" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Insomnia Amy right0001" x="2813" y="0" width="553" height="822" frameX="-82" frameY="-274" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Insomnia Amy right0002" x="3366" y="0" width="562" height="821" frameX="-80" frameY="-275" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Insomnia Amy right0003" x="972" y="1844" width="570" height="823" frameX="-80" frameY="-273" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Insomnia Amy up0000" x="1898" y="0" width="497" height="910" frameX="-128" frameY="-186" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Insomnia Amy up0001" x="1409" y="0" width="489" height="915" frameX="-128" frameY="-181" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Insomnia Amy up0002" x="931" y="0" width="478" height="922" frameX="-129" frameY="-175" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Insomnia Amy up0003" x="460" y="0" width="471" height="927" frameX="-129" frameY="-170" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Insomnia Amy up0004" x="0" y="0" width="460" height="932" frameX="-130" frameY="-165" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Insomnia Amy down0000" x="2395" y="0" width="418" height="826" frameX="-128" frameY="-297" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Insomnia Amy down0001" x="1898" y="910" width="418" height="831" frameX="-128" frameY="-292" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Insomnia Amy down0002" x="3366" y="821" width="418" height="819" frameX="-128" frameY="-304" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Insomnia Amy down0003" x="3366" y="1640" width="418" height="812" frameX="-130" frameY="-311" frameWidth="720" frameHeight="1280" />
+</TextureAtlas>

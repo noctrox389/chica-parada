@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Amy Phase 1.png">
+<SubTexture name="Amy Phase 1 idle0000" x="0" y="925" width="418" height="910" frameX="-128" frameY="-186" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Amy Phase 1 idle0001" x="418" y="925" width="418" height="910" frameX="-128" frameY="-186" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Amy Phase 1 idle0002" x="418" y="925" width="418" height="910" frameX="-128" frameY="-186" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Amy Phase 1 idle0003" x="418" y="925" width="418" height="910" frameX="-128" frameY="-186" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Amy Phase 1 idle0004" x="836" y="925" width="418" height="910" frameX="-128" frameY="-186" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Amy Phase 1 idle0005" x="836" y="925" width="418" height="910" frameX="-128" frameY="-186" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Amy Phase 1 idle0006" x="836" y="925" width="418" height="910" frameX="-128" frameY="-186" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Amy Phase 1 idle0007" x="1672" y="0" width="419" height="912" frameX="-127" frameY="-186" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Amy Phase 1 idle0008" x="1672" y="0" width="419" height="912" frameX="-127" frameY="-186" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Amy Phase 1 idle0009" x="1672" y="0" width="419" height="912" frameX="-127" frameY="-186" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Amy Phase 1 idle0010" x="0" y="925" width="418" height="910" frameX="-128" frameY="-186" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Amy Phase 1 left0000" x="2091" y="0" width="478" height="898" frameX="-72" frameY="-198" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Amy Phase 1 left0001" x="2569" y="0" width="480" height="894" frameX="-70" frameY="-202" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Amy Phase 1 left0002" x="0" y="1835" width="484" height="887" frameX="-66" frameY="-209" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Amy Phase 1 left0003" x="1770" y="1835" width="489" height="882" frameX="-61" frameY="-215" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Amy Phase 1 left0004" x="3511" y="0" width="490" height="877" frameX="-59" frameY="-220" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Amy Phase 1 right0000" x="2091" y="898" width="441" height="887" frameX="-170" frameY="-209" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Amy Phase 1 right0001" x="484" y="1835" width="446" height="887" frameX="-170" frameY="-210" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Amy Phase 1 right0002" x="2259" y="1835" width="455" height="881" frameX="-170" frameY="-216" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Amy Phase 1 right0003" x="3049" y="0" width="462" height="879" frameX="-171" frameY="-218" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Amy Phase 1 right0004" x="3511" y="877" width="464" height="875" frameX="-171" frameY="-222" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Amy Phase 1 up0000" x="1254" y="925" width="418" height="910" frameX="-128" frameY="-186" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Amy Phase 1 up0001" x="1254" y="0" width="418" height="914" frameX="-128" frameY="-182" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Amy Phase 1 up0002" x="836" y="0" width="418" height="917" frameX="-129" frameY="-179" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Amy Phase 1 up0003" x="418" y="0" width="418" height="921" frameX="-128" frameY="-175" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Amy Phase 1 up0004" x="0" y="0" width="418" height="925" frameX="-127" frameY="-171" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Amy Phase 1 down0000" x="2569" y="894" width="420" height="889" frameX="-123" frameY="-207" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Amy Phase 1 down0001" x="930" y="1835" width="420" height="886" frameX="-123" frameY="-211" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Amy Phase 1 down0002" x="1350" y="1835" width="420" height="883" frameX="-123" frameY="-214" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Amy Phase 1 down0003" x="3049" y="879" width="423" height="878" frameX="-118" frameY="-219" frameWidth="720" frameHeight="1280" />
+<SubTexture name="Amy Phase 1 down0004" x="3511" y="1752" width="427" height="872" frameX="-116" frameY="-225" frameWidth="720" frameHeight="1280" />
+</TextureAtlas>

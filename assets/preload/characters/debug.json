@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-16,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pdown"
+		},
+		{
+			"offsets": [
+				21,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pup"
+		},
+		{
+			"offsets": [
+				136,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "plmiss"
+		},
+		{
+			"offsets": [
+				99,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "pdmiss"
+		},
+		{
+			"offsets": [
+				-36,
+				138
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "pumiss"
+		},
+		{
+			"offsets": [
+				54,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "prmiss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "pl idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "pr idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "pright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "pleft",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/other bf",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "dad",
+	"flip_x": true,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-90,
+		-10
+	],
+	"sing_duration": 6.00000000000002,
+	"scale": 1
+}

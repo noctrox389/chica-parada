@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-87,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Insomnia Amy left"
+		},
+		{
+			"offsets": [
+				-93,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Insomnia Amy down"
+		},
+		{
+			"offsets": [
+				-91,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Insomnia Amy up"
+		},
+		{
+			"offsets": [
+				-116,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Insomnia Amy right"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-90,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Insomnia Amy idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Insomnia_Amy",
+	"position": [
+		-230,
+		-290
+	],
+	"healthicon": "icon-amy1",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		0,
+		80
+	],
+	"camera_position": [
+		0,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

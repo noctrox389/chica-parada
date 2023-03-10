@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				213,
+				117
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "silver-amy left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				175,
+				98
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "silver-amy down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				219,
+				110
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "silver-amy up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				185,
+				114
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "silver-amy right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "silver-amy idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/silver-amy2",
+	"position": [
+		80,
+		100
+	],
+	"healthicon": "icon-amy1",
+	"flip_x": false,
+	"healthbar_colors": [
+		173,
+		135,
+		180
+	],
+	"camera_position": [
+		-150,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
